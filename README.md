@@ -1,4 +1,4 @@
-# Hello there, I'm [qualzed (lozka)](github.com/qqqllllzzzz)
+# Hello there, I'm [qualzed (lozka)]([github.com/qqqllllzzzz](https://github.com/qqqllllzzzz))
 ### 14 y.o 🇷🇺
 ## I want to become a Desktop developer.
 ## I write code on...
