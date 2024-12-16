@@ -1,4 +1,4 @@
-# Hello there, I'm [qualzed (lozka)]
+# Hello there, I'm qualzed (lozka)
 ### 14 y.o 🇷🇺
 ## I want to become a Desktop developer.
 ## I write code on...
